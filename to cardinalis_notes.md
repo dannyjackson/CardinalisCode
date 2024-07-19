@@ -1,5 +1,5 @@
 #to cardinalis
-# scott edwards' shitty cardinal genome
+# scott edwards' cardinal genome
 
 # PCA
 cd /scratch/dnjacks4/cardinalis/to_cardinalis/
